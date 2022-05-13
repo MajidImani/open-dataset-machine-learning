@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn import preprocessing
 from sklearn.linear_model import LogisticRegression
 
+
 # load dataset
 train = pd.read_csv('train.csv')
 X_test = pd.read_csv('test.csv')
@@ -35,8 +36,3 @@ for i in range(6):
     plt.imshow(X_test_numpy[i], cmap='gray')
     plt.title(f'Predicted Digit: {predicted[i]}')
 plt.show()
-
-
-
-
-

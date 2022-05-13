@@ -1,0 +1,3 @@
+https://www.kaggle.com/competitions/digit-recognizer/data
+https://thedatafrog.com/en/articles/handwritten-digit-recognition-scikit-learn/
+https://towardsdatascience.com/designing-your-neural-networks-a5e4617027ed
